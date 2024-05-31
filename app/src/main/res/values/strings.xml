@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DataStorageApplication</string>
+    <string name="name">Имя</string>
+    <string name="lname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+    <string name="insert_error">При добавлении произошла ошибка</string>
+    <string name="specialization">Специальность</string>
+    <string name="certification">Аттестация</string>
+</resources>
